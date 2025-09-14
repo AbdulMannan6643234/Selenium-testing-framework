@@ -9,17 +9,20 @@ Automation Testing Framework built with Java, Selenium WebDriver and TestNG for 
 
 ## Getting Started
 ### Prerequisites
+Ensure you have the following installed:
 - Java 9+
 - Maven
 - TestNG Plugin
 - Selenium WebDriver
 ### Installation
+Clone the repository and install dependecies:
 ```bash
 git clone https://github.com/AbdulMannan6643234/Selenium-testing-framework.git
 cd Selenium-testing-framework
 mvn clean install
 ```
 ### Running Tests
+To run tests:
 ```bash
 mvn test
 ```
