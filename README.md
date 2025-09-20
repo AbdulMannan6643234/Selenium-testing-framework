@@ -6,6 +6,7 @@ Automation Testing Framework built with Java, Selenium WebDriver and TestNG for 
 - Modular test structure using TestNG
 - Reusable page object design pattern
 - Easy test execution and reporting
+- Automated Login form submission tests
 
 ## Getting Started
 ### Prerequisites
