@@ -39,3 +39,34 @@ Selenium-testing-framework/
 - Add more comprehensive test coverage
 - Integrate Reporting with Slack notifications
 - Parametrize Tests for multiple environments
+## Alerts
+![Alert Test Run](/screenshots/Alerts.png)
+Test Framework to interact with Alerts and Popups.
+
+## Login
+![Login Flow](/screenshots/Login.png)
+Test Framework to automate login flow.
+
+## Dropdown
+![Dropdown Test Run](/screenshots/Dropdown.png)
+Test Framework to interact with dropdown menus.
+
+## FileUpload
+![FileUpload Test](/screenshots/FileUpload.png)
+Test Framework to upload files.
+
+## Hover
+![Hover Test Run](/screenshots/Hover.png)
+Using Actions class to hover over objects.
+
+## Scroll Test
+![Scroll Test Run](/screenshots/ScrollwithJS.png)
+Using javaScript to automate scrolling in a webpage.
+
+## Tab Switching
+![Tab Switch Run](/screenshots/TabSwitching.png)
+Test Framework to switch tabs.
+
+## Waits
+![Waits Test Run](/screenshots/Waits.png)
+Using waits to delay the exceptions on a loading page.
