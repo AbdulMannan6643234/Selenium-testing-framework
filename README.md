@@ -34,3 +34,8 @@ Selenium-testing-framework/
 ├── src/main/java/pages/        # Page Objects and Utilities
 └── src/test/java/              # TestNG test classes
 ├── pom.xml                     # Maven dependencies
+```
+### Future Improvements
+- Add more comprehensive test coverage
+- Integrate Reporting with Slack notifications
+- Parametrize Tests for multiple environments
