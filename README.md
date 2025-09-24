@@ -41,7 +41,7 @@ Selenium-testing-framework/
 - Integrate Reporting with Slack notifications
 - Parametrize Tests for multiple environments
 
-#Screenshots / Reports
+# Screenshots / Reports
 ## Alerts
 ![Alert Test Run](/screenshots/Alerts.png)
 Test Framework to interact with Alerts and Popups.
