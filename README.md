@@ -34,6 +34,7 @@ Selenium-testing-framework/
 ├── src/main/java/pages/        # Page Objects and Utilities
 └── src/test/java/              # TestNG test classes
 ├── pom.xml                     # Maven dependencies
+├── screenshots                 # Includes screenshots of successful test runs
 ```
 ### Future Improvements
 - Add more comprehensive test coverage
