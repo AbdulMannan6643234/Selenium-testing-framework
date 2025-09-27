@@ -23,9 +23,9 @@ cd Selenium-testing-framework
 mvn clean install
 ```
 ### Running Tests
-To run tests:
+To run tests using testng.xml:
 ```bash
-mvn test
+mvn test -Dsurefire.suiteXmlFiles=testng.xml
 ```
 ## Project Structure
 
@@ -34,6 +34,7 @@ Selenium-testing-framework/
 ├── src/main/java/pages/        # Page Objects and Utilities
 └── src/test/java/              # TestNG test classes
 ├── pom.xml                     # Maven dependencies
+├── testng.xml                  # Contains suite configurations
 ├── screenshots                 # Includes screenshots of successful test runs
 ```
 ### Future Improvements
