@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Ecommerce Suite" parallel="false">
+    <test name="Alerts">
+        <classes>
+        <class name="Alerts.AlertsTest"/>
+        </classes>
+        <classes>
+        <class name="dropdown.DropDownTest"/>
+        </classes>
+        <classes>
+        <class name="FileUpload.FileUploadTest"/>
+        </classes>
+        <classes>
+        <class name="ForgotPassword.ForgotPasswordTest"/>
+        </classes>
+        <classes>
+        <class name="Frames.testFrames"/>
+        </classes>
+        <classes>
+        <class name="HoverTest.hoverTest"/>
+        </classes>
+        <classes>
+        <class name="KeyPress.KeyPressesTest"/>
+        </classes>
+        <classes>
+        <class name="LargeAndDeepDomTest.LargeAndDeepDomTests"/>
+        </classes>
+        <classes>
+        <class name="Loading.loadingTest"/>
+        </classes>
+        <classes>
+        <class name="login.LoginTest"/>
+        </classes>
+        <classes>
+        <class name="Navigation.NavigationTests"/>
+        </classes>
+        <classes>
+        <class name="Slider.SliderTest"/>
+        </classes>
+    </test>
+</suite>
